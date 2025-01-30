@@ -29,7 +29,7 @@ body{
 
 
 /*lösung*/
-/* .heart:after{
+.heart:after{
     content: '';
     position: absolute;
     height: 70px; 
@@ -37,4 +37,4 @@ body{
     background: #f20044;
     right: -50%;
     border-radius: 50px;
-} */
+} 
